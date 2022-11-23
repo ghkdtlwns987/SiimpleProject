@@ -1,4 +1,4 @@
-# SiimpleProject
+# SimpleProject
 Simple JSP/Servlet Web Project
 
 1. Create Database
